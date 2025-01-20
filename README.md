@@ -97,16 +97,15 @@ Future features:
 
 ### Bugs And Issues (Work In Progress)
 
-* the gameplay experience isn't the same across all screen sizes
-    * while the game is fully responsive and fully playable on all devices, the experience isn't the same
+* while the game is fully responsive and fully playable on all devices, the gameplay experience isn't the same across all screen sizes
     * the character's jump has the same duration across all screen sizes, but the cacti move slower on smaller screen sizes, and faster on larger screen sizes
-    * the players have to time their jumps very differently
+    * the players have to time their jumps differently
 
 ## Feedback
 
 In case you would like to provide feedback on this project, feel free to contact me at peter.roman24[at]gmail.com.
 
-Any feedback is appreciated as I am always trying to improve my skills and work.
+Any feedback is appreciated.
 
 ## Author
 
