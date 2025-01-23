@@ -89,8 +89,6 @@ class Player extends Element {
 
         bgClickable.addEventListener('click', () => {
 
-            console.log('clicked');
-            
             player.jump();
         });
         document.addEventListener('keydown', game.spacePressed);
@@ -106,6 +104,7 @@ class Player extends Element {
     // The message on how to jump fades away
     jump() {
         player.playJumpAnimation();
+        playerShadow.playJumpAnimation();
         msgHowToJump.hide();
     }
     // The jump animation is added to the player
